@@ -11,7 +11,7 @@ This is a demo for Earthquake data
 
 #### How to Start and Run :
 
-1. Open **earthquakeDemo.xcodeproj** file with Xcode Editor
+- Open **earthquakeDemo.xcodeproj** file with Xcode Editor
 
 ## Getting Started
 
