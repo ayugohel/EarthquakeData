@@ -1,9 +1,3 @@
-//
-//  MapVC.swift
-//  earthquakeDemo
-//
-//  Created by Ayushi on 2022-03-26.
-//
 
 import UIKit
 import MapKit
